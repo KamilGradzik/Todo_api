@@ -1,4 +1,4 @@
-# ToDo API
+# ToDo API (WIP)
 Simple API developed for small ToDo application. API was created for recruitment task purposes.
 It has few basic endpoints like adding, modyfing, getting and deleting. Endpoints are described below.
 
